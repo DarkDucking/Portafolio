@@ -1,3 +1,4 @@
+Proyecto de desarrollo web
 1.- Usar los comandos para el funcionamiento de vistas e imagenes:
 
 php artisan storage:link
